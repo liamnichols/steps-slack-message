@@ -355,7 +355,7 @@ inputs:
         An attachment may contain 1 to 5 buttons.
 
 # Step Outputs
-
+outputs:
   - output_thread_ts:
     opts:
       title: The newly created thread timestamp environment variable name
